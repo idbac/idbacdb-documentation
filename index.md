@@ -8,6 +8,8 @@ nav_order: 1
 
 IDBacDB is a platform to group, putatively identify, and prioritize bacterial strains using MALDI-TOF MS.
 
+IDBacDB is available at [www.idbac.org](https://www.idbac.org/)
+
 This documentation is intended to clarify the details on how IDBacDB  is intended to be used.
 
 __WARNING: IDBacDB is currently in a restricted beta phase. Registration is limitted and functionality may change without warning.__
