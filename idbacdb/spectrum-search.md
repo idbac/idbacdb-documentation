@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Spectrum Search
-parent: idbacdb
+parent: IDBacDB
 nav_order: 1
 ---
 
