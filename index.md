@@ -10,6 +10,8 @@ IDBacDB is a platform to group, putatively identify, and prioritize bacterial st
 
 This documentation is intended to clarify the details on how IDBacDB  is intended to be used.
 
+__WARNING: IDBacDB is currently in a restricted beta phase. Registration is limitted and functionality may change without warning.__
+
 To learn more about how IDBac works, checkout the [Original IDBac App](https://chasemc.github.io/IDBac/) or read [our primary reference](https://www.pnas.org/doi/full/10.1073/pnas.1801247115).
 
 If you use IDBac in your own work, please cite us at:

@@ -6,4 +6,4 @@ has_children: true
 permalink: /idbacdb
 ---
 
-Select documentation from the left hand toolbar.
+Select documentation from of Table of Contents below.

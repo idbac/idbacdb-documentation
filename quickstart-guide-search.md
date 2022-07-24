@@ -6,6 +6,8 @@ nav_order: 3
 
 ## Quickstart Search Guide
 
+### Mass List Search
+
 To begin searching IDBacDB simply select the "Spectrum Search" link on the homepage:
 
 ![Search Home Page]({{'assets/images/spectrum-search-homepage.png' | relative_url}})
@@ -28,5 +30,21 @@ Results will look as follows:
 You can review the matching score from your submitted masslist, as well as compare the 
 spectrum of your masslist to the library spectrum. By default the top scoring spectrum will be rendered below,
 but simply press the __preview__ icon next to the "Spectrum ID" to compare that spectrum to your own mass list.
+
+### Library Search
+
+It is also possible to search a specific spectrum from a libraray against all other public spectra. 
+To do so, navigate to a given library via the "Libraries" link in the top navigation menu, and select library of interest.
+
+![Select Library]({{'assets/images/spectrum-search-library.png' | relative_url}})
+
+Then you select a spectrum of interest and perform a search using the "Search" icon next to the spectrum ID.
+
+![Select Spectrum]({{'assets/images/spectrum-search-library-spectrum.png' | relative_url}})
+
+You will be prompted to confirm your selection and then redirected to the spectrum-search page to view the results.
+
+Note that logged in users can upload their own spectra to private libraries and search specific spectra against the public libraries.
+
 
 More details about the scoring algorithm can be found in our [Spectrum Search Docs]({{'/idbacdb/spectrum-search' | relative_url}})
