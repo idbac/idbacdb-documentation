@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+---
+layout: default
+title: Homepage
+nav_order: 1
+---
 
-You can use the [editor on GitHub](https://github.com/idbac/idbacdb-documentation/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## Welcome to the IDBacDB User Guide
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+IDBacDB is a platform to group, putatively identify, and prioritize bacterial strains using MALDI-TOF MS.
 
-### Markdown
+This documentation is intended to clarify the details on how IDBacDB  is intended to be used.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+To learn more about how IDBac works, checkout the (Original IDBac App)[https://chasemc.github.io/IDBac/] or read (our primary reference)[https://www.pnas.org/doi/full/10.1073/pnas.1801247115].
 
-```markdown
-Syntax highlighted code block
+If you use IDBac in your own work, please cite us at:
 
-# Header 1
-## Header 2
-### Header 3
+- Clark, C. M.; Costa, M. S.; Sanchez, L. M.; Murphy, B. T. _Proc. Natl. Acad. Sci._, __2018__, _115_, 4981-4986. DOI: (10.1073/pnas.1801247115)[https://doi.org/10.1073/pnas.1801247115]
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### Looking to add to the IDBacDB?
 
-**Bold** and _Italic_ and `Code` text
+Start right [away here]({{'/quickstart-guide-upload' | relative_url}})!
 
-[Link](url) and ![Image](src)
-```
+### Looking to search IDBacDB?
+Start right [away here]({{'/quickstart-guide-search' | relative_url}})!
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Feedback
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/idbac/idbacdb-documentation/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+For feedback, questions or comments please [submit issue on our public documentation page!](https://github.com/idbac/idbacdb-documentation/issues/new/choose)!
